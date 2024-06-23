@@ -1,0 +1,350 @@
+---
+title: "Leveraging R-Ladies Paris Reach for Community Impact"
+subtitle: "Chaima Boughanmi - Mouna Belaid"
+author: "[useR! 2024](https://events.linuxfoundation.org/user/)"
+lang: en
+date: "02-07-2024"
+format: 
+  revealjs:
+    theme: _extensions/beatrizmilz/rladies/rladies.scss
+    code-link: true
+    footer: "{{< fa envelope >}} [paris@rladies.org](mailto:paris@rladies.org) {{< fa globe >}} [meetup.com/fr-FR/rladies-paris/](https://www.meetup.com/fr-FR/rladies-paris/) {{< fa brands linkedin >}} [r-ladies-paris](https://www.linkedin.com/company/r-ladies-paris/)"
+    slide-number: c
+    logo: images/useR_logo.jpeg
+    code-block-height: 650px
+execute: 
+  eval: false
+  echo: true
+---
+
+# Plan
+
+
+- Introduction of R-Ladies Global and R-Ladies Paris
+- R-Ladies Paris Organizing Team
+- 2023 Annual Report 
+- Activities Promoting R-Ladies Paris
+- What kind of support you can expect ?
+- Tips of advice to maintain R-Ladies Chapter
+
+
+# R-Ladies Global
+
+## What's R-Ladies Global
+
+<span class="fragment"> ![](images/rladies_global.png){.centered-image width="100%"}
+
+<span class="fragment"> - Organization dedicated to promoting gender diversity in the R programming community
+
+<span class="fragment"> - Founded in 2012, by ***Gabriela de Queiroz***
+
+<span class="fragment"> - It aims to create a supportive network for gender minorities who use **R**
+
+<span class="fragment"> - Missions achieved by organizing meetups, workshops, and events
+
+<span class="fragment"> <div style="position: relative; height: 25%;">
+  <img src="images/qr.png" alt="" style="position: absolute; top: -300px; right: -150px; margin: 0; padding: 0;">
+</div>
+
+
+## Chapters around the world
+
+<span class="fragment"> ![](images/map.png){.centered-image width="80%"}
+
+<span class="fragment"> <div style="position: relative; height: 30%;">
+  <img src="images/country.png" alt="" style="position: absolute; top: -100px; left: 10px; margin: 0; padding: 0;">
+</div>
+
+<span class="fragment"> <div style="position: relative; height: 30%;">
+  <img src="images/chap.png" alt="" style="position: absolute; top: -500px; right: 10px; margin: 0; padding: 0;">
+</div>
+
+<span class="fragment"> <div style="position: relative; height: 30%;">
+  <img src="images/event.png" alt="" style="position: absolute; top: -550px; right: 380px; margin: 0; padding: 0;">
+</div>
+
+# What about R-Ladies Paris ?
+
+## What about R-Ladies Paris ?
+
+
+<span class="fragment"> ![](images/rladiesparis.png){.centered-image width="100%"}
+
+
+<span class="fragment">  - Was founded in **2016**
+
+<span class="fragment">  - Serves as a vibrant community for R practitioners based in **France**
+
+<span class="fragment"> <div style="position: relative; height: 30%;">
+  <img src="images/mission.png" alt="" style="position: absolute; top: 50px; right: 550px; margin: 0; padding: 0;">
+</div>
+
+
+<span class="fragment"> <div style="position: relative; height: 30%;">
+  <img src="images/miss1.png" alt="" style="position: absolute; top: -50px; right: 300px; margin: 0; padding: 0;">
+</div>
+
+<span class="fragment"> <div style="position: relative; height: 30%;">
+  <img src="images/miss2.png" alt="" style="position: absolute; top: -200px; right: 300px; margin: 0; padding: 0;">
+</div>
+
+<span class="fragment"> <div style="position: relative; height: 20%;">
+  <img src="images/miss3.png" alt="" style="position: absolute; top: -500px; right: 50px; margin: 0; padding: 0;">
+</div>
+
+
+---
+
+## Our objectives
+
+<span class="fragment"> - Promote a culture of programming language  <span class="fragment"> ![](images/Rlogo.png){width="15%"}
+
+<span class="fragment"> - Promoting balanced gender representation representation within the community R
+
+<span class="fragment"> ![](images/qr_codes.png){.centered-image width="85%"}
+
+---
+
+## What about the organizing team ? 
+
+::: columns
+::: {.column width="50%"}
+
+![<https://mounabelaid.netlify.app/>](images/team1.png){width="45%"}
+
+:::
+
+::: {.column width="50%"}
+![<https://chaimabgh.netlify.app/>](images/team2.png){.centered-image width="45%"}
+:::
+:::
+
+<span class="fragment"> ![](images/liens.png){.centered-image width="150%"}
+
+# 2023 Annual report 
+
+## 2023 Annual report 
+
+::: {layout-nrow=2}
+<span class="fragment"> ![](images/pic1.png){width="62%"}
+
+<span class="fragment"> ![](images/pic2.png){width="50%"}
+
+<span class="fragment"> ![](images/pic3.png){width="50%"}
+
+<span class="fragment"> ![](images/pic4.png){width="50%"}
+:::
+
+---
+
+## Overview of our Meetups in 2023
+
+::: {.r-stack}
+
+![](images/meetup1.png){.fragment width="80%"}
+
+
+![](images/meetup2.png){.fragment width="80%"}
+
+
+![](images/meetup3.png){.fragment width="700"}
+
+
+![](images/meetup4.png){.fragment width="700"}
+
+![](images/meetup5.png){.fragment width="700"}
+:::
+
+# Activities promoting R-Ladies Paris
+
+## Activities promoting R-Ladies Paris
+
+::: {layout-ncol=2}
+
+![**Mouna** presented the R-Ladies Paris community at the **Rencontres R** french local conference dedicated to R users, held in **France** in June 2023.](images/rr23.png){width="85%"}
+
+![**Mouna** was awarded the Opportunity Scholarship and had the chance to meet fellow R-Ladies members at the **posit:conf**(2023), held in **Chicago**.](images/posit23.png){width="60%"}
+
+:::
+
+# Activities promoting R-Ladies Paris
+
+
+::: {layout-ncol=2}
+
+
+
+![](images/meetup8.png){width="80%"}
+
+![This year **Chaima** was awarded the Opportunity Scholarship and will be attending the **posit::conf**(2024) that will be held in August in **Seattle**.](images/posit24.JPG){width="60%"}
+
+:::
+
+# Activities promoting R-Ladies Paris
+
+::: {layout-ncol=2}
+
+
+
+![We wrote a blog post about the hybrid meetup weorganized with the support of the **grant** received from **R Consortium**.](images/rconsortium.png){width="100%"}
+
+![The **R Consortium** interviewed Mouna who provided insights into the growth of the R community in Paris, especially in the French language.](images/blog.png){width="100%"}
+
+:::
+
+---
+
+## Cosima Meyer R-Ladies BOT !
+
+![Cosima Meyer developed a Mastodon bot with the goal in mind to make contributions by  R-Ladies more visibles to be recognized.](images/cosima.png){width="110%"}
+
+
+# What kind of support you can expect ?
+
+## Monitoring: Dedicated team to help you from R-Ladies Global
+
+
+<span class="fragment"> - Use / join the R-[Ladies directory](https://rladies.org/directory/)
+
+<span class="fragment"> -  Share code (**R-Ladies Global Github**)
+
+<span class="fragment"> - And if you are an R-Lady and want to start a chapter near you, you can get in touch via **chapters@rladies.org**
+
+<span class="fragment"> ![](images/helpglobal.png){width="60%"}
+
+# Scheduling & Hosting an online meetup with R-Ladies ZOOM Account
+
+::: {layout-nrow=2}
+<span class="fragment"> ![](images/zoom1.png){width="62%"}
+
+<span class="fragment"> ![](images/zoom2.png){width="62%"}
+
+<span class="fragment"> ![](images/zoom3.png){width="62%"}
+
+<span class="fragment"> ![](images/zoom4.png){width="62%"}
+:::
+
+
+---
+
+## Join R-Ladies Slack Channel 
+
+<span class="fragment"> - The Organizers’ **Slack** has a lot of channels that cover different topics. 
+
+<span class="fragment"> - You can create a channel on the **global Slack** for communication within the organizing team of your chapter.
+
+<span class="fragment"> ![](images/slack.png){.centered-image width="35%"}
+
+---
+
+## Ask for a grant from R Consortium 
+
+::: {layout-nrow=2}
+<span class="fragment"> ![](images/consortium.png){width="100%"}
+
+<span class="fragment"> ![](images/12.png){width="62%"}
+
+<span class="fragment"> ![](images/4.png){width="62%"}
+
+<span class="fragment"> ![](images/8.png){width="62%"}
+:::
+
+# Code of Conduct 
+
+This **code of conduct** applies to all R-Ladies spaces, including meetups, Twitter, Slack, mailing lists, both online and offline. 
+<!--  Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Global Leadership Team.-->
+
+<span class="fragment"> ![](images/coc.png){width="50%"}
+
+--- 
+
+# How to maintain R-Ladeis Chapter ? 
+
+## Identify speakers and relevant topics for your community
+
+[Link to the form](https://docs.google.com/forms/d/e/1FAIpQLSfQMXqgUPA0DXls0jedCCCjZMP5pfxDIumebMNbo84gj0nH6Q/viewform)
+
+![](images/form.png){.absolute left="0" top="130" width="50%"}
+
+![](images/meetings.png){.absolute top="130" right="50" width="50%"}
+
+::: r-stack
+![](images/berlin_r_user_group_form.png){.fragment width="40%"}
+:::
+
+---
+
+# Where to find potential speakers?
+
+
+<span class="fragment"> 
+
+::: {layout-ncol=2}
+
+
+
+![](images/rladies_directory.png){width="100%"}
+
+![](images/frame.png){width="35%"}
+
+:::
+
+- The directory is filled with information about speakers who believe in R-Ladies' mission.
+
+---
+
+## Slack Channel 
+
+<span class="fragment"> - You can also ask for speakers on **Slack** at the R-Ladies Community
+
+<span class="fragment"> - R-Ladies **workspace** dedicated to organizers.
+
+![](images/slack.png){width="80%"}
+
+--- 
+
+## Make meetups accessible to everyone interested
+
+
+::: {layout-nrow=2}
+<span class="fragment"> ![](images/youtube.png){width="100%"}
+
+<span class="fragment"> ![](images/meet.png){width="90%"}
+
+<span class="fragment"> ![](images/zom.png){width="50%"}
+
+<span class="fragment"> ![](images/rladieslogoo.png){width="62%"}
+:::
+
+
+--- 
+
+## Collecting testimonies from speakers
+
+::: {layout-ncol=2}
+<span class="fragment"> ![](images/test1.png){width="70%"}
+
+<span class="fragment"> ![](images/test2.png){width="70%"}
+
+<span class="fragment"> ![](images/test3.png){width="70%"}
+:::
+
+---
+
+## R-Ladies memebers' talk in useR! Conf 
+
+::: {layout-ncol=2}
+<span class="fragment"> ![](images/userladies.png){width="80%"}
+
+<span class="fragment"> ![](images/shanon.png){width="100%"}
+:::
+
+
+## Follow R-ladies Paris in Social Media
+
+![](images/links.png){width="80%"}
+
+# THANK YOU FOR YOUR ATTENTION !
+
+![](images/rladieslogoo.png){width="80%"}
+---
